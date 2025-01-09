@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+arxiv
+wikipedia
+duckduckgo-search
